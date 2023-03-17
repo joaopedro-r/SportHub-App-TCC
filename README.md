@@ -1,4 +1,4 @@
-# SportHub App TCC
+# SportHub TCC
 O SportHub é um aplicativo que conecta pessoas com interesse em praticar esportes e aproveitar atividades físicas juntos. Ele permite que os usuários criem perfis, pesquisem por jogos e esportes de seu interesse, e se conectem diretamente através do aplicativo. Além disso, o SportHub possui um sistema de gerenciamento de partidas, que facilita a organização de jogos entre os usuários. O app também conta com funcionalidades de criação de grupos (que auxilia na organização dos jogos), cadastro de quadras e outros.
 
 ## Conhecimentos aplicados
